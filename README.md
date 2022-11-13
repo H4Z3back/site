@@ -1,6 +1,6 @@
-# --- 🌐Imperial WebSite    © Imperial 2022
+# # 🌐Imperial WebSite    © Imperial 2022
 ![enter image description here](https://cdn.discordapp.com/attachments/1034030340135718982/1041175638607941682/imperial_site.png)
-## --- Répertoire officiel du site officiel d'Imperial.
+## # — Répertoire officiel du site officiel d'Imperial.
 Merci de votre soutien et de votre confiance.
 H4Z3
 
@@ -12,7 +12,7 @@ Shop encore non fonctionnel mais arrivera bientôt, merci pour toute commande de
 
 Veuillez rejoindre le serveur discord, principalement toute notre activité est basée dessus.
 
-# ---📜Changelog
+# # —📜Changelog
 
 Vous retrouverez ici tout les changements dans les notes de mise à jour du site.
 
