@@ -20,7 +20,3 @@ Vous retrouverez ici tout les changements dans les notes de mise à jour du site
 ```
 	 - Lancement officiel du site Imperial
 ```
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
