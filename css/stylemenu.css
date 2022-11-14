@@ -1,11 +1,19 @@
-img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {display: none;}
+body {
+	color: rgb(252,2,252);
+    font-family: monospace;
+    max-width: 900px;
+    margin: 20px auto;
+    font-size: 14px;
+    line-height: 18px;
+}
 
-  .btn {
+
+.btn {
     cursor: pointer;
     width: 30%;
     padding:0 8px; 
-    background: rgb(3, 172, 3);
-    border:1px solid rgb(3, 172, 3);
+    background: rgb(252,2,252);
+    border:1px solid rgb(252,2,252);
     color:#fff;
     border-radius:3px;
     font-weight:600;
@@ -17,7 +25,7 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
 }
 
 #searchbar{
-    border: 1px solid rgb(3, 172, 3)2;
+    border: 1px solid rgb(252,2,252)2;
     margin-left: 15%;
     padding:15px;
     border-radius: 10px;
@@ -45,20 +53,8 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
   padding: 10px;    
  } 
 
-
-body {
-    background-color: black;
-    color: rgb(3, 172, 3);
-    font-family: monospace;
-    max-width: 900px;
-    margin: 20px auto;
-    font-size: 14px;
-    line-height: 18px;
-}
-
-
 input {
-    border: 1px solid rgb(3, 172, 3)2;
+    border: 1px solid rgb(252,2,252)2;
     padding: 10px 15px;
     background: black;
     color: #ffffff;
@@ -76,7 +72,7 @@ a {
 }
 
 h2 {
-    color: rgb(3, 172, 3);
+    color: rgb(252,2,252);
 }
 
 .copy {
@@ -165,8 +161,4 @@ pre {
     }
 }  .questions {
     width: 100%;
-}
-
-img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
-    display: none;
 }
