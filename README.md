@@ -18,12 +18,12 @@ Vous retrouverez ici tout les changements dans les notes de mise à jour du site
 
 **📂 1.1.0 - [14/11/2022]**
 ```
-	 - Je passe directement à la 1.1.0 parce que je considère que c'est un gros changement (surtout visuel)
-	 - Refonte total du site (sûrement quelques details vont encore changer dans les prochains jours)
-	 - Refonte qui comprendre le nouveau logo du site beaucoup plus propre et beau
+[!] Je passe directement à la 1.1.0 parce que je considère que c'est un gros changement (surtout visuel)
+[+] Refonte total du site (sûrement quelques details vont encore changer dans les prochains jours)
+[+] Refonte qui comprendre le nouveau logo du site beaucoup plus propre et beau
 ```
 
 **📂 1.0.0 - [13/11/2022]**
 ```
-	 - Lancement officiel du site Imperial
+[-] Lancement officiel du site Imperial
 ```
