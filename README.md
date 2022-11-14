@@ -25,5 +25,5 @@ Vous retrouverez ici tout les changements dans les notes de mise à jour du site
 
 **📂 1.0.0 - [13/11/2022]**
 ```
-[-] Lancement officiel du site Imperial
+[!] Lancement officiel du site Imperial
 ```
