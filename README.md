@@ -16,6 +16,12 @@ Veuillez rejoindre le serveur discord, principalement toute notre activité est 
 
 Vous retrouverez ici tout les changements dans les notes de mise à jour du site.
 
+**📂 1.1.1 - [22/11/2022]**
+```
+[+] Ajout de la catégorie "Serialkeys" pour les clés d'activation pro etc de logiciels
+[+] Ajout d'un rôle serialkeys disponible dans le salon rôles pour être au courant des nouveaux ajouts
+```
+
 **📂 1.1.0 - [14/11/2022]**
 ```
 [!] Je passe directement à la 1.1.0 parce que je considère que c'est un gros changement (surtout visuel)
