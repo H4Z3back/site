@@ -1,51 +1,35 @@
-.btn {
-    cursor: pointer;
-    width: 30%;
-    padding:0 8px; 
-    background: rgb(252,2,252);
-    border:1px solid rgb(252,2,252);
-    color:#fff;
-    border-radius:3px;
-    font-weight:600;
-    font-size: 14px;
-    height: 28px;
-    line-height: 26px;
-    outline: none;
-    white-space: nowrap;
-}
-
-.center {
-    text-align: center;
-}
-
 #searchbar{
-    border: 1px solid rgb(252,2,252)2;
-    margin-left: 15%;
-    padding:15px;
-    border-radius: 10px;
-  }
+	padding:15px;
+	border-radius: 10px;
+}
 
-  input[type=text] {
-     width: 62%;
-     text-align: center;
-  }
+input[type=text] {
+	width: 30%;
+	-webkit-transition: width 0.15s ease-in-out;
+	transition: width 0.15s ease-in-out;
+}
 
-  input[type=text]:focus {
-    width: 62%;
-  }
+/* When the input field gets focus,
+		change its width to 100% */
+input[type=text]:focus {
+	width: 70%;
+}
 
- #list{
-  margin-left: 0;
-  }
+#list{
+	font-size: 1.5em;
+}
 
-.item{
-  margin-left: 0;
-  display: list-item;
-  color: #ffffff;
-  text-align: start;
-  background-color: #222;
-  padding: 10px;    
- } 
+.animals{
+display: list-item;	
+}
+
+
+
+
+ol li{
+  list-style-type: none;
+  color: rgb(252,2,252);
+}
 
 
 body {
