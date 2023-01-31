@@ -75,6 +75,16 @@ h2 {
     color: rgb(252,2,252);
 }
 
+h3{
+	font-size: 19px;
+    color: rgb(252,2,252);
+}
+
+.downloads{
+	font-size: 17px;
+	color: #ffffff;
+}
+
 .copy {
     cursor: pointer;
 }
